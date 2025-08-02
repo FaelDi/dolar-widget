@@ -13,6 +13,7 @@ A modern, always-on-top Java Swing currency widget that displays real-time USD t
 - **Connection Status**: Visual indicators for API connectivity
 - **Manual Refresh**: Click the "R" button to update immediately
 - **Error Handling**: Graceful fallback when API is unavailable
+<img width="359" height="167" alt="image" src="https://github.com/user-attachments/assets/a0057437-56b0-4dfa-a56b-bf643ebc7a4b" />
 
 ## 🎨 Interface
 
